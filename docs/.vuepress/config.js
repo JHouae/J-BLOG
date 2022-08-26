@@ -25,9 +25,9 @@ module.exports = {
         needComments: true,
         // 其他的 Vssue 配置
         autoCreateIssue: true,
-        clientId: "adb9fb0ac1159e00ce7f",
-        clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-        owner: "eryajf",
+        clientId: "ba6766d24e200cfd9d65",
+        clientSecret: "c6fed5ecb68ac10fd4593e4fd5593e0f6196ecd2",
+        owner: "jhouse",
         repo: "j-blog",
       },
     ],
